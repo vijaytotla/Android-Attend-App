@@ -33,4 +33,3 @@
  	<li>Password :-admin123</li>
 </ul>
 &nbsp;
-<h3>Installation :</h3>
